@@ -1,0 +1,1 @@
+# Guia-Painel-Din-mico-no-Stata

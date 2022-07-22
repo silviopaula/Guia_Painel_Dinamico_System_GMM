@@ -1,4 +1,4 @@
-# Guia de como aplicar o estimador de painel dinâmico System-GMM
+# Guia Painel Dinâmico System-GMM
 
 O objetivo deste guia é mostrar na prática como se aplica o estimador System-Gmm de Blundell e Bond (1998) nos softwares Stata e Python.
 

@@ -1,5 +1,5 @@
-# Guia de como aplicar System GMM no Stata
+# Guia de como aplicar o estimador de painel dinâmico System-GMM
 
-O objetivo deste guia é mostrar na prática como se aplica o estimador System Gmm no software Stata.
+O objetivo deste guia é mostrar na prática como se aplica o estimador System-Gmm de Blundell e Bond (1998) nos softwares Stata e Python.
 
-A teoria e os comandos estão no arquivo "Guia Painel Dinâmico no Stata", escrito em Jupyter notebook para que seja possível visualizar diretamente do Github.
+A teoria e os comandos estão nos arquivos "Guia Painel Dinâmico no Stata" e "Guia Painel Dinâmico no Python", ambos escritos em Jupyter notebook.
